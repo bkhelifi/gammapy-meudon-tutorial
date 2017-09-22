@@ -3,8 +3,13 @@ This repository aims to share instructions and material for the Tutorial taking 
 
 ## Objectives
 
+Notebook : jupyter notebook toto.ipynb
+
 ## Introduction tutorial: python and numpy
+
 
 ## Tutorial for the package *Gammapy*
 
+### General informations
 
+###
