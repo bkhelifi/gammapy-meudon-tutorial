@@ -52,7 +52,7 @@ DataStore and links to HDU and OBS table, stacked observation
 
 This tutorial is driven by **xxx** (**xxx**).
 
-It uses the notebook : **xxxxx**
+It uses the notebook : *notebooks/tutorial_gammapy_intro.ipynb*
 
 ### V.3 Making a sky map
 Counts maps, background estimation, excess and significance map, source fitting
@@ -66,7 +66,7 @@ Simulation of fake data, 1D analysis for the background and spectrum, spectrum e
  
 This tutorial is driven by Julien Lefaucheur (LUTh).
 
-It uses the notebook : **xxxxx**
+It uses the notebook : *notebooks/tutorial_ebl.ipynb*
 
 ### V.5 3D analysis??
 Régis, do we make it???
