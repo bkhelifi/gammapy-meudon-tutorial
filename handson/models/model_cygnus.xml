@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<source_library title="source library">
+  <source name="Fermi cocoon" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.3"  scale="1e-17" min="0.001" max="1000" free="1" />
+      <parameter name="Index"     value="-2.3" scale="1"     min="-10"   max="10"   free="1" />
+      <parameter name="Scale"     value="1"    scale="1e+06" min="0.001" max="1000" free="0" />
+    </spectrum>
+    <spatialModel type="GaussFunction">
+      <parameter name="GLON"  value="79.6" scale="1" min="0"    max="360"  free="1" />
+      <parameter name="GLAT"  value="1.4"  scale="1" min="-90"  max="90"   free="1" />
+      <parameter name="Sigma" value="2.0"  scale="1" min="0.01" max="10.0" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G78.2+2.1" type="ExtendedSource">
+    <spectrum type="ExpCutoff">
+      <parameter name="Prefactor" value="4.27"  scale="1e-18" min="0.001" max="1000" free="1" />
+      <parameter name="Index"     value="-2.42" scale="1"     min="-10"   max="10"   free="1" />
+      <parameter name="Scale"     value="1"     scale="1e+06" min="0.001" max="1000" free="0" />
+      <parameter name="Cutoff"    scale="1e6"   value="1.0"   min="0.01"  max="1000" free="1"/>
+    </spectrum>
+    <spatialModel type="DiskFunction">
+      <parameter name="GLON"   scale="1.0" value="78.24" min="-360" max="360" free="1"/>
+      <parameter name="GLAT"   scale="1.0" value="2.20"  min="-90"  max="90"  free="1"/>
+      <parameter name="Radius" scale="1.0" value="0.63"  min="0.01" max="10"  free="1"/>
+    </spatialModel>
+  </source>
+  <source name="VER J2019+407 (bis)" type="ExtendedSource">
+    <spectrum type="ExpCutoff">
+      <parameter name="Prefactor" value="1.5"   scale="1e-18" min="0.001" max="1000" free="1" />
+      <parameter name="Index"     value="-2.37" scale="1"     min="-10"   max="10"   free="1" />
+      <parameter name="Scale"     value="1"     scale="1e+06" min="0.001" max="1000" free="0" />
+      <parameter name="Cutoff"    scale="1e6"   value="40.0"  min="0.01"  max="1000" free="1"/>
+    </spectrum>
+    <spatialModel type="GaussFunction">
+      <parameter name="GLON"  value="78.1662" scale="1" min="0"    max="360"  free="1" />
+      <parameter name="GLAT"  value="2.6241"  scale="1" min="-90"  max="90"   free="1" />
+      <parameter name="Sigma" value="0.23"    scale="1" min="0.01" max="10.0" free="1" />
+    </spatialModel>
+  </source>
+  <source name="TeV J2032+4130 (bis)" type="ExtendedSource">
+    <spectrum type="ExpCutoff">
+      <parameter name="Prefactor" value="9.5"  scale="1e-19" min="0.001" max="1000" free="1" />
+      <parameter name="Index"     value="-2.1" scale="1"     min="-10"   max="10"   free="1" />
+      <parameter name="Scale"     value="1"    scale="1e+06" min="0.001" max="1000" free="0" />
+      <parameter name="Cutoff"    scale="1e6"  value="40.0"  min="0.01"  max="1000" free="1"/>
+    </spectrum>
+    <spatialModel type="GaussFunction">
+      <parameter name="GLON"  value="80.279" scale="1" min="0"    max="360"  free="1" />
+      <parameter name="GLAT"  value="1.042"  scale="1" min="-90"  max="90"   free="1" />
+      <parameter name="Sigma" value="0.083"  scale="1" min="0.01" max="10.0" free="1" />
+    </spatialModel>
+  </source>
+</source_library>

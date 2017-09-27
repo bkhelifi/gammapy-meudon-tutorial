@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<source_library title="source library">
+  <source name="Tycho" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.59321e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.95" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="6.3625" scale="1" free="0" />
+      <parameter name="DEC" value="64.1806" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="1ES 0033+595" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.67583e-14" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-3.8" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="8.82" scale="1" free="0" />
+      <parameter name="DEC" value="59.79" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="3C 58" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.3717e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.4" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="31.3792" scale="1" free="0" />
+      <parameter name="DEC" value="64.85" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="LS I +61 303" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.98211e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.4" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="40.1417" scale="1" free="0" />
+      <parameter name="DEC" value="61.2424" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="IC 443" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.16795e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.99" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="94.1929" scale="1" free="0" />
+      <parameter name="DEC" value="22.519" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.16" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.16" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J0632+057" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.77218e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.53" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="98.2429" scale="1" free="0" />
+      <parameter name="DEC" value="5.80556" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="Vela X" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.88802e-11" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.32" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="128.75" scale="1" free="0" />
+      <parameter name="DEC" value="-45.6" scale="1" free="0" />
+      <parameter name="PA" value="10" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.35" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="RX J0852.0-4622" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.43255e-11" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.24" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SpatialMap" file="map_VelaJunior.fits">
+      <parameter name="Prefactor" value="1" scale="1" min="0.001" max="1000" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1018-589" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.53389e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.9" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="154.44" scale="1" free="0" />
+      <parameter name="DEC" value="-59" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.3" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.3" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="Westerlund 2" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.00286e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.58" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="155.85" scale="1" free="0" />
+      <parameter name="DEC" value="-57.79" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.18" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.18" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1026-582" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="9.32269e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.94" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="156.66" scale="1" free="0" />
+      <parameter name="DEC" value="-58.2" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1303-631" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.26915e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.5" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="195.7" scale="1" free="0" />
+      <parameter name="DEC" value="-63.1775" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.19" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.19" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="PSR B1259-63" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.00341e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.92" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="195.705" scale="1" free="0" />
+      <parameter name="DEC" value="-63.8314" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1356-645" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.10803e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.2" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="209" scale="1" free="0" />
+      <parameter name="DEC" value="-64.5" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.2" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.2" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="Kookaburra (Rabbit)" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.03354e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.22" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="214.517" scale="1" free="0" />
+      <parameter name="DEC" value="-60.9753" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="Kookaburra PWN" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.77327e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.17" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="215.038" scale="1" free="0" />
+      <parameter name="DEC" value="-60.76" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.05" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.05" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1427-608" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.04316e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.16" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="216.967" scale="1" free="0" />
+      <parameter name="DEC" value="-60.85" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.04" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.04" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="RCW 86" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.34592e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.54" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="220.679" scale="1" free="0" />
+      <parameter name="DEC" value="-62.4449" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.45" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.45" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1458-608" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.14818e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.8" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="224.54" scale="1" free="0" />
+      <parameter name="DEC" value="-60.8772" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.17" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.17" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1503-582" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.09736e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.4" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="225.908" scale="1" free="0" />
+      <parameter name="DEC" value="-58.2292" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.26" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.26" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1507-622" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.36808e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.24" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="226.72" scale="1" free="0" />
+      <parameter name="DEC" value="-62.35" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="MSH 15-52" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.24716e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.27" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="228.529" scale="1" free="0" />
+      <parameter name="DEC" value="-59.1575" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.11" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.11" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G327.1-01.1" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.84081e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.1" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="238.65" scale="1" free="0" />
+      <parameter name="DEC" value="-55.0847" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.03" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.03" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1614-518" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.32238e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.46" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="243.579" scale="1" free="0" />
+      <parameter name="DEC" value="-51.8186" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.23" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.23" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1616-508" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.71013e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.35" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="244.098" scale="1" free="0" />
+      <parameter name="DEC" value="-50.8992" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1626-490" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.87819e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.18" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="246.517" scale="1" free="0" />
+      <parameter name="DEC" value="-49.0869" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.07" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.07" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1632-478" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.37297e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.12" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="248.036" scale="1" free="0" />
+      <parameter name="DEC" value="-47.8233" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.21" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.21" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1634-472" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.39327e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.38" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="248.738" scale="1" free="0" />
+      <parameter name="DEC" value="-47.2672" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.11" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.11" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1640-465" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.04539e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.42" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="250.184" scale="1" free="0" />
+      <parameter name="DEC" value="-46.5289" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.04" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.04" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1641-463" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.7228e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.99" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="250.257" scale="1" free="0" />
+      <parameter name="DEC" value="-46.3097" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="Westerlund 1" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="7.07472e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.19" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="251.708" scale="1" free="0" />
+      <parameter name="DEC" value="-45.82" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="1.1" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="1.1" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1702-420" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="7.78081e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.07" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="255.683" scale="1" free="0" />
+      <parameter name="DEC" value="-42.0158" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.3" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.3" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1708-443" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.78519e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.46" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="257.046" scale="1" free="0" />
+      <parameter name="DEC" value="-44.3333" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.29" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.29" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1708-410" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="9.71726e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.34" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="257.1" scale="1" free="0" />
+      <parameter name="DEC" value="-41.09" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="RX J1713.7-3946" type="DiffuseSource">
+    <spectrum type="PLSuperExpCutoff">
+      <parameter name="Prefactor" scale="1e-17" value="3.41" min="1e-07" max="1000.0" free="1"/>
+      <parameter name="Index1"    scale="-1"    value="1.79" min="0.0"   max="+5.0"   free="1"/>
+      <parameter name="Cutoff"    scale="1e6"   value="3.7"  min="0.01"  max="1000.0" free="1"/>
+      <parameter name="Scale"     scale="1e6"   value="1.0"  min="0.01"  max="1000.0" free="0"/>
+      <parameter name="Index2"    scale="1.0"   value="0.5"  min="0.1"   max="5.0"    free="1"/>
+    </spectrum>
+    <spatialModel type="SpatialMap" file="map_RXJ1713.fits">
+      <parameter name="Prefactor" value="1" scale="1" min="0.001" max="1000" free="0" />
+    </spatialModel>
+  </source>
+  <source name="CTB 37B" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.14737e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.27" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="258.492" scale="1" free="0" />
+      <parameter name="DEC" value="-38.2" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="CTB 37A" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="6.3569e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.3" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="258.579" scale="1" free="0" />
+      <parameter name="DEC" value="-38.5667" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.06" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G349.7+00.2" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.22937e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.8" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="259.491" scale="1" free="0" />
+      <parameter name="DEC" value="-37.4443" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1718-385" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.21067e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-0.7" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="259.529" scale="1" free="0" />
+      <parameter name="DEC" value="-38.55" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1729-345" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.79374e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.24" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="262.396" scale="1" free="0" />
+      <parameter name="DEC" value="-34.5425" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1731-347" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.90972e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.32" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="263.013" scale="1" free="0" />
+      <parameter name="DEC" value="-34.755" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.27" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.27" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1741-302" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="6.19545e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.78" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="265.25" scale="1" free="0" />
+      <parameter name="DEC" value="-30.2" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.4" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.4" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1745-303" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.54009e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.82" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="266.259" scale="1" free="0" />
+      <parameter name="DEC" value="-30.3706" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.21" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.21" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="Galactic Centre" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.93872e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.21" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="266.415" scale="1" free="0" />
+      <parameter name="DEC" value="-29.0061" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="SNR G000.9+00.1" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.75008e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.4" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="266.847" scale="1" free="0" />
+      <parameter name="DEC" value="-28.1517" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="Terzan 5" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.29248e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.5" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="266.954" scale="1" free="0" />
+      <parameter name="DEC" value="-24.8083" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.16" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.16" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1800-240" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.20988e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.49" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="270.156" scale="1" free="0" />
+      <parameter name="DEC" value="-23.996" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.32" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.32" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="W 28" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.41923e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.66" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="270.426" scale="1" free="0" />
+      <parameter name="DEC" value="-23.335" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.17" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.17" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1804-216" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.27588e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.72" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="271.132" scale="1" free="0" />
+      <parameter name="DEC" value="-21.7008" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.2" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.2" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1808-204" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.71146e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.5" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="272.151" scale="1" free="0" />
+      <parameter name="DEC" value="-20.4458" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1809-193" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.59147e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.2" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="272.467" scale="1" free="0" />
+      <parameter name="DEC" value="-19.395" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.25" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.25" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1813-178" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.25734e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.09" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="273.403" scale="1" free="0" />
+      <parameter name="DEC" value="-17.8431" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.03" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.03" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G015.4+00.1" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.87807e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.3" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="274.52" scale="1" free="0" />
+      <parameter name="DEC" value="-15.4669" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1825-137" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.62806e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.46" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="276.421" scale="1" free="0" />
+      <parameter name="DEC" value="-13.8389" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.13" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="LS 5039 INFC" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.68324e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-1.85" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="276.558" scale="1" free="0" />
+      <parameter name="DEC" value="-14.8487" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1831-098" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="9.20567e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.1" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="277.854" scale="1" free="0" />
+      <parameter name="DEC" value="-9.9" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.15" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1832-093" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.92464e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.6" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="278.208" scale="1" free="0" />
+      <parameter name="DEC" value="-9.37667" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1834-087" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.74842e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.45" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="278.624" scale="1" free="0" />
+      <parameter name="DEC" value="-8.7185" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.14" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1837-069" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.72571e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.27" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="279.406" scale="1" free="0" />
+      <parameter name="DEC" value="-6.945" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.12" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.12" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1841-055" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="8.72484e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.41" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="280.229" scale="1" free="0" />
+      <parameter name="DEC" value="-5.55" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.41" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.41" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1846-029" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.65023e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.26" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="281.6" scale="1" free="0" />
+      <parameter name="DEC" value="-2.98139" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1857+026" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.20971e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.39" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="284.295" scale="1" free="0" />
+      <parameter name="DEC" value="2.7" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.22" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.22" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1858+020" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.7815e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.17" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="284.583" scale="1" free="0" />
+      <parameter name="DEC" value="2.09" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="MGRO J1908+06" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.46468e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.1" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="286.975" scale="1" free="0" />
+      <parameter name="DEC" value="6.26861" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.34" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.34" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="W 49B" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.08654e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-3.1" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="287.787" scale="1" free="0" />
+      <parameter name="DEC" value="9.10667" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1912+101" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.01774e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.7" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="288.204" scale="1" free="0" />
+      <parameter name="DEC" value="10.1517" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.26" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.26" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="W 51" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.97776e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.58" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="290.73" scale="1" free="0" />
+      <parameter name="DEC" value="14.191" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.12" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.12" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G054.1+00.3" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.17587e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.39" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="292.633" scale="1" free="0" />
+      <parameter name="DEC" value="18.87" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="HESS J1943+213" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.64548e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-3.1" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="295.979" scale="1" free="0" />
+      <parameter name="DEC" value="21.3022" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="VER J2016+371" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="2.2651e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.3" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="304.008" scale="1" free="0" />
+      <parameter name="DEC" value="37.1978" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="VER J2019+407" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="1.04818e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.37" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="305.02" scale="1" free="0" />
+      <parameter name="DEC" value="40.76" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.23" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.23" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="TeV J2032+4130" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="4.05e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="308.083" scale="1" free="0" />
+      <parameter name="DEC" value="41.51" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.08" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR G106.3+02.7" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="8.45753e-14" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.29" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="336.996" scale="1" free="0" />
+      <parameter name="DEC" value="60.8769" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.27" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.27" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="Cassiopeia A" type="PointSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="7.63398e-13" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.61" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="350.807" scale="1" free="0" />
+      <parameter name="DEC" value="58.8072" scale="1" free="0" />
+    </spatialModel>
+  </source>
+  <source name="MGRO J2019+37" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="5.77944e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="304.83" scale="1" free="0" />
+      <parameter name="DEC" value="36.83" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="0.32" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="0.32" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="MGRO J2031+41" type="ExtendedSource">
+    <spectrum type="PowerLaw2">
+      <parameter name="Integral" value="3.21783e-12" error="0" scale="1" min="0" max="10" free="1" />
+      <parameter name="Index" value="-2.33" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="LowerLimit" value="1e+06" scale="1" min="0.001" max="1e+15" free="0" />
+      <parameter name="UpperLimit" value="1e+07" scale="1" free="0" />
+    </spectrum>
+    <spatialModel type="EllipticalGauss">
+      <parameter name="RA" value="307.18" scale="1" free="0" />
+      <parameter name="DEC" value="41.3128" scale="1" free="0" />
+      <parameter name="PA" value="0" scale="1" free="0" />
+      <parameter name="MinorRadius" value="1.8" error="0" scale="1" min="0.0002778" free="1" />
+      <parameter name="MajorRadius" value="1.8" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+</source_library>

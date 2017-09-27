@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<observation_list title="observation list">
+  <observation name="Hands-on" id="110000" instrument="CTA">
+    <parameter name="Pointing" ra="114.7378" dec="-24.5337" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662774400" tmax="662776200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="114.7378" dec="-24.5337" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110000.fits" />
+  </observation>
+  <observation name="Hands-on" id="110001" instrument="CTA">
+    <parameter name="Pointing" ra="115.5554" dec="-25.8381" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662776320" tmax="662778120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="115.5554" dec="-25.8381" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110001.fits" />
+  </observation>
+  <observation name="Hands-on" id="110002" instrument="CTA">
+    <parameter name="Pointing" ra="116.3903" dec="-27.1383" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662778240" tmax="662780040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="116.3903" dec="-27.1383" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110002.fits" />
+  </observation>
+  <observation name="Hands-on" id="110003" instrument="CTA">
+    <parameter name="Pointing" ra="117.244" dec="-28.4339" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662780160" tmax="662781960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="117.244" dec="-28.4339" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110003.fits" />
+  </observation>
+  <observation name="Hands-on" id="110004" instrument="CTA">
+    <parameter name="Pointing" ra="118.1179" dec="-29.7244" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662782080" tmax="662783880" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="118.1179" dec="-29.7244" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110004.fits" />
+  </observation>
+  <observation name="Hands-on" id="110005" instrument="CTA">
+    <parameter name="Pointing" ra="119.0137" dec="-31.0096" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662784000" tmax="662785800" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="119.0137" dec="-31.0096" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110005.fits" />
+  </observation>
+  <observation name="Hands-on" id="110006" instrument="CTA">
+    <parameter name="Pointing" ra="119.933" dec="-32.2888" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662785920" tmax="662787720" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="119.933" dec="-32.2888" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110006.fits" />
+  </observation>
+  <observation name="Hands-on" id="110007" instrument="CTA">
+    <parameter name="Pointing" ra="120.8776" dec="-33.5617" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662787840" tmax="662789640" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="120.8776" dec="-33.5617" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110007.fits" />
+  </observation>
+  <observation name="Hands-on" id="110008" instrument="CTA">
+    <parameter name="Pointing" ra="121.8495" dec="-34.8276" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662789760" tmax="662791560" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="121.8495" dec="-34.8276" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110008.fits" />
+  </observation>
+  <observation name="Hands-on" id="110009" instrument="CTA">
+    <parameter name="Pointing" ra="122.8507" dec="-36.0861" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662791680" tmax="662793480" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="122.8507" dec="-36.0861" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110009.fits" />
+  </observation>
+  <observation name="Hands-on" id="110010" instrument="CTA">
+    <parameter name="Pointing" ra="123.8835" dec="-37.3365" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662793600" tmax="662795400" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="123.8835" dec="-37.3365" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110010.fits" />
+  </observation>
+  <observation name="Hands-on" id="110011" instrument="CTA">
+    <parameter name="Pointing" ra="124.9502" dec="-38.5781" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662795520" tmax="662797320" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="124.9502" dec="-38.5781" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110011.fits" />
+  </observation>
+  <observation name="Hands-on" id="110012" instrument="CTA">
+    <parameter name="Pointing" ra="126.0533" dec="-39.8102" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662797440" tmax="662799240" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="126.0533" dec="-39.8102" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110012.fits" />
+  </observation>
+  <observation name="Hands-on" id="110013" instrument="CTA">
+    <parameter name="Pointing" ra="127.1955" dec="-41.032" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662799360" tmax="662801160" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="127.1955" dec="-41.032" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110013.fits" />
+  </observation>
+  <observation name="Hands-on" id="110014" instrument="CTA">
+    <parameter name="Pointing" ra="128.3797" dec="-42.2426" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662801280" tmax="662803080" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="128.3797" dec="-42.2426" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110014.fits" />
+  </observation>
+  <observation name="Hands-on" id="110015" instrument="CTA">
+    <parameter name="Pointing" ra="129.6091" dec="-43.4412" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662803200" tmax="662805000" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="129.6091" dec="-43.4412" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110015.fits" />
+  </observation>
+  <observation name="Hands-on" id="110016" instrument="CTA">
+    <parameter name="Pointing" ra="130.8869" dec="-44.6265" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662805120" tmax="662806920" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="130.8869" dec="-44.6265" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110016.fits" />
+  </observation>
+  <observation name="Hands-on" id="110017" instrument="CTA">
+    <parameter name="Pointing" ra="132.2166" dec="-45.7976" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662807040" tmax="662808840" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="132.2166" dec="-45.7976" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110017.fits" />
+  </observation>
+  <observation name="Hands-on" id="110018" instrument="CTA">
+    <parameter name="Pointing" ra="133.602" dec="-46.9532" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662808960" tmax="662810760" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="133.602" dec="-46.9532" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110018.fits" />
+  </observation>
+  <observation name="Hands-on" id="110019" instrument="CTA">
+    <parameter name="Pointing" ra="135.0471" dec="-48.0919" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662860800" tmax="662862600" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="135.0471" dec="-48.0919" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110019.fits" />
+  </observation>
+  <observation name="Hands-on" id="110020" instrument="CTA">
+    <parameter name="Pointing" ra="136.5561" dec="-49.2123" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662862720" tmax="662864520" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="136.5561" dec="-49.2123" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110020.fits" />
+  </observation>
+  <observation name="Hands-on" id="110021" instrument="CTA">
+    <parameter name="Pointing" ra="138.1334" dec="-50.3127" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662864640" tmax="662866440" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="138.1334" dec="-50.3127" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110021.fits" />
+  </observation>
+  <observation name="Hands-on" id="110022" instrument="CTA">
+    <parameter name="Pointing" ra="139.7837" dec="-51.3914" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662866560" tmax="662868360" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="139.7837" dec="-51.3914" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110022.fits" />
+  </observation>
+  <observation name="Hands-on" id="110023" instrument="CTA">
+    <parameter name="Pointing" ra="141.5117" dec="-52.4465" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662868480" tmax="662870280" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="141.5117" dec="-52.4465" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110023.fits" />
+  </observation>
+  <observation name="Hands-on" id="110024" instrument="CTA">
+    <parameter name="Pointing" ra="143.3224" dec="-53.4758" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662870400" tmax="662872200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="143.3224" dec="-53.4758" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110024.fits" />
+  </observation>
+  <observation name="Hands-on" id="110025" instrument="CTA">
+    <parameter name="Pointing" ra="145.2209" dec="-54.4771" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662872320" tmax="662874120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="145.2209" dec="-54.4771" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110025.fits" />
+  </observation>
+  <observation name="Hands-on" id="110026" instrument="CTA">
+    <parameter name="Pointing" ra="147.212" dec="-55.4478" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662874240" tmax="662876040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="147.212" dec="-55.4478" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110026.fits" />
+  </observation>
+  <observation name="Hands-on" id="110027" instrument="CTA">
+    <parameter name="Pointing" ra="149.3009" dec="-56.3853" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662876160" tmax="662877960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="149.3009" dec="-56.3853" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110027.fits" />
+  </observation>
+  <observation name="Hands-on" id="110028" instrument="CTA">
+    <parameter name="Pointing" ra="151.492" dec="-57.2867" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662878080" tmax="662879880" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="151.492" dec="-57.2867" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110028.fits" />
+  </observation>
+  <observation name="Hands-on" id="110029" instrument="CTA">
+    <parameter name="Pointing" ra="153.7898" dec="-58.1488" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662880000" tmax="662881800" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="153.7898" dec="-58.1488" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110029.fits" />
+  </observation>
+  <observation name="Hands-on" id="110030" instrument="CTA">
+    <parameter name="Pointing" ra="156.1977" dec="-58.9683" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662881920" tmax="662883720" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="156.1977" dec="-58.9683" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110030.fits" />
+  </observation>
+  <observation name="Hands-on" id="110031" instrument="CTA">
+    <parameter name="Pointing" ra="158.7185" dec="-59.7418" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662883840" tmax="662885640" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="158.7185" dec="-59.7418" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110031.fits" />
+  </observation>
+  <observation name="Hands-on" id="110032" instrument="CTA">
+    <parameter name="Pointing" ra="161.3539" dec="-60.4655" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662885760" tmax="662887560" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="161.3539" dec="-60.4655" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110032.fits" />
+  </observation>
+  <observation name="Hands-on" id="110033" instrument="CTA">
+    <parameter name="Pointing" ra="164.1041" dec="-61.1358" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662887680" tmax="662889480" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="164.1041" dec="-61.1358" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110033.fits" />
+  </observation>
+  <observation name="Hands-on" id="110034" instrument="CTA">
+    <parameter name="Pointing" ra="166.9675" dec="-61.7487" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662889600" tmax="662891400" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="166.9675" dec="-61.7487" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110034.fits" />
+  </observation>
+  <observation name="Hands-on" id="110035" instrument="CTA">
+    <parameter name="Pointing" ra="169.9405" dec="-62.3004" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662891520" tmax="662893320" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="169.9405" dec="-62.3004" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110035.fits" />
+  </observation>
+  <observation name="Hands-on" id="110036" instrument="CTA">
+    <parameter name="Pointing" ra="173.0172" dec="-62.7872" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662893440" tmax="662895240" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="173.0172" dec="-62.7872" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110036.fits" />
+  </observation>
+  <observation name="Hands-on" id="110037" instrument="CTA">
+    <parameter name="Pointing" ra="176.1893" dec="-63.2055" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662895360" tmax="662897160" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="176.1893" dec="-63.2055" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110037.fits" />
+  </observation>
+  <observation name="Hands-on" id="110038" instrument="CTA">
+    <parameter name="Pointing" ra="179.4458" dec="-63.5521" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662947200" tmax="662949000" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="179.4458" dec="-63.5521" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110038.fits" />
+  </observation>
+  <observation name="Hands-on" id="110039" instrument="CTA">
+    <parameter name="Pointing" ra="182.7733" dec="-63.824" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662949120" tmax="662950920" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="182.7733" dec="-63.824" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110039.fits" />
+  </observation>
+  <observation name="Hands-on" id="110040" instrument="CTA">
+    <parameter name="Pointing" ra="186.1561" dec="-64.019" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662951040" tmax="662952840" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="186.1561" dec="-64.019" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110040.fits" />
+  </observation>
+  <observation name="Hands-on" id="110041" instrument="CTA">
+    <parameter name="Pointing" ra="116.3875" dec="-24.5399" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662952960" tmax="662954760" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="116.3875" dec="-24.5399" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110041.fits" />
+  </observation>
+  <observation name="Hands-on" id="110042" instrument="CTA">
+    <parameter name="Pointing" ra="117.2229" dec="-25.8355" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662954880" tmax="662956680" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="117.2229" dec="-25.8355" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110042.fits" />
+  </observation>
+  <observation name="Hands-on" id="110043" instrument="CTA">
+    <parameter name="Pointing" ra="118.0767" dec="-27.1263" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662956800" tmax="662958600" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="118.0767" dec="-27.1263" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110043.fits" />
+  </observation>
+  <observation name="Hands-on" id="110044" instrument="CTA">
+    <parameter name="Pointing" ra="118.9503" dec="-28.4117" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662958720" tmax="662960520" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="118.9503" dec="-28.4117" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110044.fits" />
+  </observation>
+  <observation name="Hands-on" id="110045" instrument="CTA">
+    <parameter name="Pointing" ra="119.8455" dec="-29.6915" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662960640" tmax="662962440" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="119.8455" dec="-29.6915" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110045.fits" />
+  </observation>
+  <observation name="Hands-on" id="110046" instrument="CTA">
+    <parameter name="Pointing" ra="120.7636" dec="-30.9651" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662962560" tmax="662964360" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="120.7636" dec="-30.9651" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110046.fits" />
+  </observation>
+  <observation name="Hands-on" id="110047" instrument="CTA">
+    <parameter name="Pointing" ra="121.7065" dec="-32.232" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662964480" tmax="662966280" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="121.7065" dec="-32.232" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110047.fits" />
+  </observation>
+  <observation name="Hands-on" id="110048" instrument="CTA">
+    <parameter name="Pointing" ra="122.676" dec="-33.4917" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662966400" tmax="662968200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="122.676" dec="-33.4917" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110048.fits" />
+  </observation>
+  <observation name="Hands-on" id="110049" instrument="CTA">
+    <parameter name="Pointing" ra="123.674" dec="-34.7437" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662968320" tmax="662970120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="123.674" dec="-34.7437" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110049.fits" />
+  </observation>
+  <observation name="Hands-on" id="110050" instrument="CTA">
+    <parameter name="Pointing" ra="124.7027" dec="-35.9872" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662970240" tmax="662972040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="124.7027" dec="-35.9872" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110050.fits" />
+  </observation>
+  <observation name="Hands-on" id="110051" instrument="CTA">
+    <parameter name="Pointing" ra="125.7642" dec="-37.2217" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662972160" tmax="662973960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="125.7642" dec="-37.2217" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110051.fits" />
+  </observation>
+  <observation name="Hands-on" id="110052" instrument="CTA">
+    <parameter name="Pointing" ra="126.8608" dec="-38.4464" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662974080" tmax="662975880" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="126.8608" dec="-38.4464" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110052.fits" />
+  </observation>
+  <observation name="Hands-on" id="110053" instrument="CTA">
+    <parameter name="Pointing" ra="127.9952" dec="-39.6605" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662976000" tmax="662977800" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="127.9952" dec="-39.6605" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110053.fits" />
+  </observation>
+  <observation name="Hands-on" id="110054" instrument="CTA">
+    <parameter name="Pointing" ra="129.1699" dec="-40.8632" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662977920" tmax="662979720" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="129.1699" dec="-40.8632" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110054.fits" />
+  </observation>
+  <observation name="Hands-on" id="110055" instrument="CTA">
+    <parameter name="Pointing" ra="130.3879" dec="-42.0536" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662979840" tmax="662981640" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="130.3879" dec="-42.0536" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110055.fits" />
+  </observation>
+  <observation name="Hands-on" id="110056" instrument="CTA">
+    <parameter name="Pointing" ra="131.6521" dec="-43.2306" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="662981760" tmax="662983560" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="131.6521" dec="-43.2306" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110056.fits" />
+  </observation>
+  <observation name="Hands-on" id="110057" instrument="CTA">
+    <parameter name="Pointing" ra="132.9659" dec="-44.3931" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663033600" tmax="663035400" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="132.9659" dec="-44.3931" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110057.fits" />
+  </observation>
+  <observation name="Hands-on" id="110058" instrument="CTA">
+    <parameter name="Pointing" ra="134.3325" dec="-45.5399" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663035520" tmax="663037320" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="134.3325" dec="-45.5399" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110058.fits" />
+  </observation>
+  <observation name="Hands-on" id="110059" instrument="CTA">
+    <parameter name="Pointing" ra="135.7555" dec="-46.6698" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663037440" tmax="663039240" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="135.7555" dec="-46.6698" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110059.fits" />
+  </observation>
+  <observation name="Hands-on" id="110060" instrument="CTA">
+    <parameter name="Pointing" ra="137.2389" dec="-47.7813" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663039360" tmax="663041160" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="137.2389" dec="-47.7813" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110060.fits" />
+  </observation>
+  <observation name="Hands-on" id="110061" instrument="CTA">
+    <parameter name="Pointing" ra="138.7865" dec="-48.8728" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663041280" tmax="663043080" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="138.7865" dec="-48.8728" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110061.fits" />
+  </observation>
+  <observation name="Hands-on" id="110062" instrument="CTA">
+    <parameter name="Pointing" ra="140.4024" dec="-49.9427" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663043200" tmax="663045000" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="140.4024" dec="-49.9427" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110062.fits" />
+  </observation>
+  <observation name="Hands-on" id="110063" instrument="CTA">
+    <parameter name="Pointing" ra="142.0908" dec="-50.9892" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663045120" tmax="663046920" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="142.0908" dec="-50.9892" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110063.fits" />
+  </observation>
+  <observation name="Hands-on" id="110064" instrument="CTA">
+    <parameter name="Pointing" ra="143.8562" dec="-52.0102" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663047040" tmax="663048840" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="143.8562" dec="-52.0102" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110064.fits" />
+  </observation>
+  <observation name="Hands-on" id="110065" instrument="CTA">
+    <parameter name="Pointing" ra="145.7029" dec="-53.0036" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663048960" tmax="663050760" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="145.7029" dec="-53.0036" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110065.fits" />
+  </observation>
+  <observation name="Hands-on" id="110066" instrument="CTA">
+    <parameter name="Pointing" ra="147.6353" dec="-53.967" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663050880" tmax="663052680" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="147.6353" dec="-53.967" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110066.fits" />
+  </observation>
+  <observation name="Hands-on" id="110067" instrument="CTA">
+    <parameter name="Pointing" ra="149.6575" dec="-54.898" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663052800" tmax="663054600" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="149.6575" dec="-54.898" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110067.fits" />
+  </observation>
+  <observation name="Hands-on" id="110068" instrument="CTA">
+    <parameter name="Pointing" ra="151.7736" dec="-55.7939" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663054720" tmax="663056520" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="151.7736" dec="-55.7939" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110068.fits" />
+  </observation>
+  <observation name="Hands-on" id="110069" instrument="CTA">
+    <parameter name="Pointing" ra="153.9871" dec="-56.6517" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663056640" tmax="663058440" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="153.9871" dec="-56.6517" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110069.fits" />
+  </observation>
+  <observation name="Hands-on" id="110070" instrument="CTA">
+    <parameter name="Pointing" ra="156.3011" dec="-57.4685" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663058560" tmax="663060360" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="156.3011" dec="-57.4685" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110070.fits" />
+  </observation>
+  <observation name="Hands-on" id="110071" instrument="CTA">
+    <parameter name="Pointing" ra="158.718" dec="-58.241" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663060480" tmax="663062280" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="158.718" dec="-58.241" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110071.fits" />
+  </observation>
+  <observation name="Hands-on" id="110072" instrument="CTA">
+    <parameter name="Pointing" ra="161.2391" dec="-58.9658" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663062400" tmax="663064200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="161.2391" dec="-58.9658" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110072.fits" />
+  </observation>
+  <observation name="Hands-on" id="110073" instrument="CTA">
+    <parameter name="Pointing" ra="163.8646" dec="-59.6397" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663064320" tmax="663066120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="163.8646" dec="-59.6397" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110073.fits" />
+  </observation>
+  <observation name="Hands-on" id="110074" instrument="CTA">
+    <parameter name="Pointing" ra="166.5931" dec="-60.2589" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663066240" tmax="663068040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="166.5931" dec="-60.2589" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110074.fits" />
+  </observation>
+  <observation name="Hands-on" id="110075" instrument="CTA">
+    <parameter name="Pointing" ra="169.4219" dec="-60.8201" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663068160" tmax="663069960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="169.4219" dec="-60.8201" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110075.fits" />
+  </observation>
+  <observation name="Hands-on" id="110076" instrument="CTA">
+    <parameter name="Pointing" ra="172.3459" dec="-61.3197" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663120000" tmax="663121800" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="172.3459" dec="-61.3197" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110076.fits" />
+  </observation>
+  <observation name="Hands-on" id="110077" instrument="CTA">
+    <parameter name="Pointing" ra="175.3585" dec="-61.7546" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663121920" tmax="663123720" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="175.3585" dec="-61.7546" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110077.fits" />
+  </observation>
+  <observation name="Hands-on" id="110078" instrument="CTA">
+    <parameter name="Pointing" ra="178.4505" dec="-62.1217" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663123840" tmax="663125640" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="178.4505" dec="-62.1217" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110078.fits" />
+  </observation>
+  <observation name="Hands-on" id="110079" instrument="CTA">
+    <parameter name="Pointing" ra="181.6109" dec="-62.4182" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663125760" tmax="663127560" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="181.6109" dec="-62.4182" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110079.fits" />
+  </observation>
+  <observation name="Hands-on" id="110080" instrument="CTA">
+    <parameter name="Pointing" ra="184.8267" dec="-62.6418" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663127680" tmax="663129480" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="184.8267" dec="-62.6418" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110080.fits" />
+  </observation>
+  <observation name="Hands-on" id="110081" instrument="CTA">
+    <parameter name="Pointing" ra="188.0832" dec="-62.7908" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663129600" tmax="663131400" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="188.0832" dec="-62.7908" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110081.fits" />
+  </observation>
+  <observation name="Hands-on" id="110082" instrument="CTA">
+    <parameter name="Pointing" ra="117.2026" dec="-23.2372" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663131520" tmax="663133320" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="117.2026" dec="-23.2372" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110082.fits" />
+  </observation>
+  <observation name="Hands-on" id="110083" instrument="CTA">
+    <parameter name="Pointing" ra="118.0373" dec="-24.5281" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663133440" tmax="663135240" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="118.0373" dec="-24.5281" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110083.fits" />
+  </observation>
+  <observation name="Hands-on" id="110084" instrument="CTA">
+    <parameter name="Pointing" ra="118.89" dec="-25.8139" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663135360" tmax="663137160" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="118.89" dec="-25.8139" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110084.fits" />
+  </observation>
+  <observation name="Hands-on" id="110085" instrument="CTA">
+    <parameter name="Pointing" ra="119.7623" dec="-27.0941" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663137280" tmax="663139080" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="119.7623" dec="-27.0941" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110085.fits" />
+  </observation>
+  <observation name="Hands-on" id="110086" instrument="CTA">
+    <parameter name="Pointing" ra="120.6556" dec="-28.3684" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663139200" tmax="663141000" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="120.6556" dec="-28.3684" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110086.fits" />
+  </observation>
+  <observation name="Hands-on" id="110087" instrument="CTA">
+    <parameter name="Pointing" ra="121.5714" dec="-29.6362" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663141120" tmax="663142920" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="121.5714" dec="-29.6362" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110087.fits" />
+  </observation>
+  <observation name="Hands-on" id="110088" instrument="CTA">
+    <parameter name="Pointing" ra="122.5114" dec="-30.8971" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663143040" tmax="663144840" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="122.5114" dec="-30.8971" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110088.fits" />
+  </observation>
+  <observation name="Hands-on" id="110089" instrument="CTA">
+    <parameter name="Pointing" ra="123.4773" dec="-32.1505" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663144960" tmax="663146760" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="123.4773" dec="-32.1505" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110089.fits" />
+  </observation>
+  <observation name="Hands-on" id="110090" instrument="CTA">
+    <parameter name="Pointing" ra="124.471" dec="-33.3958" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663146880" tmax="663148680" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="124.471" dec="-33.3958" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110090.fits" />
+  </observation>
+  <observation name="Hands-on" id="110091" instrument="CTA">
+    <parameter name="Pointing" ra="125.4943" dec="-34.6325" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663148800" tmax="663150600" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="125.4943" dec="-34.6325" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110091.fits" />
+  </observation>
+  <observation name="Hands-on" id="110092" instrument="CTA">
+    <parameter name="Pointing" ra="126.5493" dec="-35.8599" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663150720" tmax="663152520" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="126.5493" dec="-35.8599" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110092.fits" />
+  </observation>
+  <observation name="Hands-on" id="110093" instrument="CTA">
+    <parameter name="Pointing" ra="127.6384" dec="-37.0772" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663152640" tmax="663154440" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="127.6384" dec="-37.0772" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110093.fits" />
+  </observation>
+  <observation name="Hands-on" id="110094" instrument="CTA">
+    <parameter name="Pointing" ra="128.7637" dec="-38.2838" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663154560" tmax="663156360" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="128.7637" dec="-38.2838" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110094.fits" />
+  </observation>
+  <observation name="Hands-on" id="110095" instrument="CTA">
+    <parameter name="Pointing" ra="129.9278" dec="-39.4786" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663206400" tmax="663208200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="129.9278" dec="-39.4786" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110095.fits" />
+  </observation>
+  <observation name="Hands-on" id="110096" instrument="CTA">
+    <parameter name="Pointing" ra="131.1333" dec="-40.661" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663208320" tmax="663210120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="131.1333" dec="-40.661" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110096.fits" />
+  </observation>
+  <observation name="Hands-on" id="110097" instrument="CTA">
+    <parameter name="Pointing" ra="132.3831" dec="-41.8297" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663210240" tmax="663212040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="132.3831" dec="-41.8297" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110097.fits" />
+  </observation>
+  <observation name="Hands-on" id="110098" instrument="CTA">
+    <parameter name="Pointing" ra="133.6799" dec="-42.9839" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663212160" tmax="663213960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="133.6799" dec="-42.9839" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110098.fits" />
+  </observation>
+  <observation name="Hands-on" id="110099" instrument="CTA">
+    <parameter name="Pointing" ra="135.027" dec="-44.1222" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663214080" tmax="663215880" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="135.027" dec="-44.1222" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110099.fits" />
+  </observation>
+  <observation name="Hands-on" id="110100" instrument="CTA">
+    <parameter name="Pointing" ra="136.4276" dec="-45.2435" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663216000" tmax="663217800" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="136.4276" dec="-45.2435" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110100.fits" />
+  </observation>
+  <observation name="Hands-on" id="110101" instrument="CTA">
+    <parameter name="Pointing" ra="137.885" dec="-46.3464" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663217920" tmax="663219720" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="137.885" dec="-46.3464" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110101.fits" />
+  </observation>
+  <observation name="Hands-on" id="110102" instrument="CTA">
+    <parameter name="Pointing" ra="139.4029" dec="-47.4295" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663219840" tmax="663221640" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="139.4029" dec="-47.4295" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110102.fits" />
+  </observation>
+  <observation name="Hands-on" id="110103" instrument="CTA">
+    <parameter name="Pointing" ra="140.9849" dec="-48.491" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663221760" tmax="663223560" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="140.9849" dec="-48.491" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110103.fits" />
+  </observation>
+  <observation name="Hands-on" id="110104" instrument="CTA">
+    <parameter name="Pointing" ra="142.6347" dec="-49.5292" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663223680" tmax="663225480" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="142.6347" dec="-49.5292" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110104.fits" />
+  </observation>
+  <observation name="Hands-on" id="110105" instrument="CTA">
+    <parameter name="Pointing" ra="144.3562" dec="-50.5423" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663225600" tmax="663227400" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="144.3562" dec="-50.5423" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110105.fits" />
+  </observation>
+  <observation name="Hands-on" id="110106" instrument="CTA">
+    <parameter name="Pointing" ra="146.1532" dec="-51.5283" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663227520" tmax="663229320" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="146.1532" dec="-51.5283" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110106.fits" />
+  </observation>
+  <observation name="Hands-on" id="110107" instrument="CTA">
+    <parameter name="Pointing" ra="148.0295" dec="-52.4849" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663229440" tmax="663231240" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="148.0295" dec="-52.4849" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110107.fits" />
+  </observation>
+  <observation name="Hands-on" id="110108" instrument="CTA">
+    <parameter name="Pointing" ra="149.9887" dec="-53.4098" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663231360" tmax="663233160" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="149.9887" dec="-53.4098" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110108.fits" />
+  </observation>
+  <observation name="Hands-on" id="110109" instrument="CTA">
+    <parameter name="Pointing" ra="152.0343" dec="-54.3005" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663233280" tmax="663235080" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="152.0343" dec="-54.3005" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110109.fits" />
+  </observation>
+  <observation name="Hands-on" id="110110" instrument="CTA">
+    <parameter name="Pointing" ra="154.1693" dec="-55.1544" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663235200" tmax="663237000" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="154.1693" dec="-55.1544" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110110.fits" />
+  </observation>
+  <observation name="Hands-on" id="110111" instrument="CTA">
+    <parameter name="Pointing" ra="156.3964" dec="-55.9686" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663237120" tmax="663238920" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="156.3964" dec="-55.9686" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110111.fits" />
+  </observation>
+  <observation name="Hands-on" id="110112" instrument="CTA">
+    <parameter name="Pointing" ra="158.7175" dec="-56.7402" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663239040" tmax="663240840" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="158.7175" dec="-56.7402" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110112.fits" />
+  </observation>
+  <observation name="Hands-on" id="110113" instrument="CTA">
+    <parameter name="Pointing" ra="161.1338" dec="-57.4661" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663240960" tmax="663242760" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="161.1338" dec="-57.4661" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110113.fits" />
+  </observation>
+  <observation name="Hands-on" id="110114" instrument="CTA">
+    <parameter name="Pointing" ra="163.6454" dec="-58.1431" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663292800" tmax="663294600" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="163.6454" dec="-58.1431" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110114.fits" />
+  </observation>
+  <observation name="Hands-on" id="110115" instrument="CTA">
+    <parameter name="Pointing" ra="166.2514" dec="-58.7681" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663294720" tmax="663296520" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="166.2514" dec="-58.7681" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110115.fits" />
+  </observation>
+  <observation name="Hands-on" id="110116" instrument="CTA">
+    <parameter name="Pointing" ra="168.9491" dec="-59.3379" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663296640" tmax="663298440" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="168.9491" dec="-59.3379" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110116.fits" />
+  </observation>
+  <observation name="Hands-on" id="110117" instrument="CTA">
+    <parameter name="Pointing" ra="171.7347" dec="-59.8493" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663298560" tmax="663300360" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="171.7347" dec="-59.8493" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110117.fits" />
+  </observation>
+  <observation name="Hands-on" id="110118" instrument="CTA">
+    <parameter name="Pointing" ra="174.6025" dec="-60.2992" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663300480" tmax="663302280" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="174.6025" dec="-60.2992" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110118.fits" />
+  </observation>
+  <observation name="Hands-on" id="110119" instrument="CTA">
+    <parameter name="Pointing" ra="177.5451" dec="-60.6848" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663302400" tmax="663304200" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="177.5451" dec="-60.6848" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110119.fits" />
+  </observation>
+  <observation name="Hands-on" id="110120" instrument="CTA">
+    <parameter name="Pointing" ra="180.5531" dec="-61.0035" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663304320" tmax="663306120" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="180.5531" dec="-61.0035" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110120.fits" />
+  </observation>
+  <observation name="Hands-on" id="110121" instrument="CTA">
+    <parameter name="Pointing" ra="183.6159" dec="-61.2532" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663306240" tmax="663308040" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="183.6159" dec="-61.2532" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110121.fits" />
+  </observation>
+  <observation name="Hands-on" id="110122" instrument="CTA">
+    <parameter name="Pointing" ra="186.7209" dec="-61.4319" />
+    <parameter name="EnergyBoundaries" emin="30000" emax="160000000" />
+    <parameter name="GoodTimeIntervals" tmin="663308160" tmax="663309960" />
+    <parameter name="TimeReference" mjdrefi="51544" mjdreff="0.5" timeunit="s" timesys="TT" timeref="LOCAL" />
+    <parameter name="RegionOfInterest" ra="186.7209" dec="-61.4319" rad="5" />
+    <parameter name="Deadtime" deadc="0.98" />
+    <parameter name="Calibration" database="prod2" response="South_50h" />
+    <parameter name="EventList" file="$CTADATA/data/obs_110122.fits" />
+  </observation>
+</observation_list>

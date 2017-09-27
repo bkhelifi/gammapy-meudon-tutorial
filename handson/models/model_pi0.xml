@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<source_library title="source library">
+  <source name="Pion decay" type="DiffuseSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1" error="0" scale="1" min="1e-07" max="1000" free="1" />
+      <parameter name="Index" value="2.7" error="0" scale="-1" min="0" max="5" free="1" />
+      <parameter name="Scale" value="0.868" scale="1e+06" min="0.01" max="1000" free="0" />
+    </spectrum>
+    <spatialModel type="SpatialMap" file="map_pi0.fits" normalize="0">
+      <parameter name="Prefactor" value="1" scale="1" min="0.001" max="1000" free="0" />
+    </spatialModel>
+  </source>
+</source_library>

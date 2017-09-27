@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<source_library title="source library">
+  <source name="SNR 79" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="7.36676e-08" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.23255" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="102.371" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="8.97304" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.879636" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0879636" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 55" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00105392" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.50699" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="99.4987" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="6.70349" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0808405" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00808405" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 71" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000226139" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.63739" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="100.066" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="5.36372" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0234624" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00234624" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 90" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.0167912" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.50505" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="123.884" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-35.0175" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0913637" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00913637" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 95" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.5972e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39973" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="132.806" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-43.6326" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0802268" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00802268" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 96" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.0110616" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39418" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="134.035" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-45.3813" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0877035" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00877035" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 92" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00035721" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.67523" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="146.6" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-53.3546" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.115234" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0115234" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 5" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="2.21849e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39417" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="146.754" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-53.508" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0973283" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00973283" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 48" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00815059" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.11738" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="148.549" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-54.2936" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0269146" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00269146" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 47" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.37392e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.61702" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="169.014" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.4278" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.021079" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0021079" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 6" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000181109" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.29013" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="179.414" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.0733" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0733978" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00733978" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 7" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.81682e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.6124" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="180.857" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.0464" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.11078" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.011078" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 16" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000129911" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.08099" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="189.199" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.8607" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0369284" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00369284" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 43" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="7.33242e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.5431" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="190.623" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.9481" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0636847" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00636847" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 63" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.92598e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.44392" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="191.901" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.7224" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0240646" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00240646" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 66" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.70821e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.1296" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="191.967" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-62.8931" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0115019" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00115019" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 44" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.6157e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.2862" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="210.073" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-61.9038" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.112533" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0112533" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 34" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="4.32491e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.4295" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="213.478" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-61.6765" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.135819" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0135819" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 39" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00257582" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.46881" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="214.443" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-61.0607" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.051705" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0051705" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 61" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00889259" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.07422" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="216.761" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.7256" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0471093" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00471093" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 1" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="8.17308e-08" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.59676" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="216.676" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.5206" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0265263" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00265263" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 60" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000327398" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.14995" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="217.038" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.7648" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0880878" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00880878" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 12" type="PointSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.67475e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.16483" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="218.848" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.385" error="0" scale="1" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 31" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="6.99279e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.37229" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="219.194" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-59.7221" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.140442" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0140442" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 57" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.6878e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.05182" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="219.773" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-60.3366" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0752414" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00752414" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 45" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.22674e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.09269" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="225.392" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-58.7934" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0179733" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00179733" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 100" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.0258405" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.27272" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="233.038" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-59.4043" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.478284" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0478284" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 58" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00622749" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.49274" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="236.957" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-54.5108" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0128681" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00128681" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 8" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.50561e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.63934" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="238.892" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-53.8043" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0135188" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00135188" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 70" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="7.43303e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.51858" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="238.867" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-53.7502" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0415474" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00415474" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 20" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000257757" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.03866" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="239.567" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-53.1401" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0843472" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00843472" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 17" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00022144" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.02416" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="239.536" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-52.7086" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.126202" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0126202" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 59" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000458228" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.6234" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="240.173" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-52.7448" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0733392" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00733392" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 72" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="7.57137e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.57308" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="241.34" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-52.2131" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.105446" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0105446" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 97" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.0130621" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.5636" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="241.376" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-52.0326" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.123427" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0123427" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 51" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.53478e-08" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.456" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="243.152" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-51.6592" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0767517" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00767517" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 32" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.18041e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.04119" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="243.733" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-50.9333" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0404833" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00404833" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 23" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000190393" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.13302" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="246.116" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-49.235" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.093376" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0093376" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 93" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00039111" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.35254" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="246.44" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-49.4065" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0406009" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00406009" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 19" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.20448e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.10113" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="246.964" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-49.1526" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0780908" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00780908" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 38" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00109196" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39256" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="252.529" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-44.4066" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0137505" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00137505" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 3" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00015466" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.48919" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="255.141" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-42.3935" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0509116" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00509116" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 73" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.30074e-08" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.58845" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="255.228" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-42.08" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0256888" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00256888" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 77" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.66025e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.32021" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="255.283" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-41.2128" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.138483" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0138483" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 21" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.90873e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39719" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="259.812" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-37.464" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0703037" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00703037" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 88" type="PointSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="6.85678e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.02398" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="260.86" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-36.2371" error="0" scale="1" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 25" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.41667e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.20452" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="261.251" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-35.4481" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0622207" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00622207" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 14" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000475031" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.68029" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="262.309" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-34.4762" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0315271" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00315271" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 53" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.72852e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.39545" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="262.273" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-34.3942" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0169013" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00169013" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 84" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000110939" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.33121" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="262.944" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-33.3325" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0250609" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00250609" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 68" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="2.43327e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.69224" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="263.069" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-33.134" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0184053" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00184053" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 9" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.66551e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.15447" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="263.614" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-33.0081" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0402524" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00402524" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 78" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="4.41715e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.68443" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="264.318" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-32.235" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0589861" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00589861" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 82" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00141242" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.51557" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="265.241" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-30.4464" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0413091" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00413091" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 94" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000507923" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.3982" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="266.952" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-28.8659" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0289959" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00289959" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 30" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000743909" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.28679" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="267.655" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-27.2933" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0351972" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00351972" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 15" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="8.68338e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.16784" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="268.078" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-26.406" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0198066" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00198066" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 89" type="PointSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000127195" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.05969" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="268.147" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-26.3643" error="0" scale="1" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 22" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00120794" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.47229" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="268.302" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-26.1434" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0408881" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00408881" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 24" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.45494e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.11415" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="269.844" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-23.769" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0417061" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00417061" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 4" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.2784e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.68589" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="270.879" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-23.3758" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0516281" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00516281" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 49" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00169002" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.50218" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="271.657" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-21.5654" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.142772" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0142772" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 37" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="2.6513e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.08951" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="271.339" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-21.1808" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0342484" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00342484" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 54" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000194822" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.3771" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="272.08" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-20.5004" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0103286" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00103286" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 74" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000445346" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.08779" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="271.964" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-20.3275" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0174036" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00174036" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 26" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="2.85483e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.45801" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="273.348" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-17.7639" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0479377" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00479377" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 64" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.82395e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.15132" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="274.519" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-16.4071" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0322012" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00322012" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 46" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.53323e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.46457" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="274.601" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-15.9357" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0362349" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00362349" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 67" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="2.70103e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.00019" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="274.763" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-14.9505" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.120994" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0120994" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 87" type="PointSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00112009" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.66287" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="276.097" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-13.3267" error="0" scale="1" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 98" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="5.85979e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.40443" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="275.779" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-12.6463" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0543889" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00543889" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 69" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.29601e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.38525" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="276.581" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-11.8634" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0185524" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00185524" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 35" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000718068" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.51085" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="277.723" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-10.0887" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0517362" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00517362" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 18" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.81517e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.52454" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="278.603" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-9.53348" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0217214" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00217214" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 80" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00067821" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.26407" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="278.487" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-9.30171" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.044317" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0044317" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 41" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.99873e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.06262" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="278.635" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-9.28227" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.206016" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0206016" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 42" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000126208" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.50347" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="278.893" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-7.58032" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0723362" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00723362" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 2" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.57174e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.08346" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="280.349" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-7.25533" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.288501" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0288501" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 76" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00608589" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.20608" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="280.099" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-5.64266" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0248445" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00248445" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 85" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.48076e-08" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.38179" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="281.791" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="-2.10468" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0518919" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00518919" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 10" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.12967e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.46204" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="283.267" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="0.495714" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0587296" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00587296" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 28" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.01454e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.47438" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="283.915" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="1.99244" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0368673" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00368673" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 13" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000674507" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.01902" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="285.065" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="3.64004" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.076127" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0076127" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 65" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="3.4087e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.23249" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="284.832" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="4.11323" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.105269" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0105269" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 81" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="1.40979e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.60281" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="286.19" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="6.88026" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0827035" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00827035" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 29" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00014946" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.12799" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="287.066" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="8.29297" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0240617" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00240617" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 99" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000545147" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.25579" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="288.833" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="11.0698" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.057139" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0057139" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 27" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00293181" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.34457" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="291.273" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="16.8039" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0249537" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00249537" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 75" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000267494" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.34072" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="291.845" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="16.7334" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0208893" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00208893" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 62" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="6.46252e-05" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.29901" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="292.067" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="17.2019" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0182044" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00182044" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 33" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00016394" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.4724" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="295.607" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="23.5307" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.049597" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0049597" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 40" type="PointSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000218555" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.13219" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="SkyDirFunction">
+      <parameter name="RA" value="297.834" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="26.9415" error="0" scale="1" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 83" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="9.03278e-07" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.31819" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="300.131" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="31.2906" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0838913" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00838913" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 56" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000157394" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.32535" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="302.895" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="34.0128" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.19462" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.019462" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 11" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000702086" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.45178" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="336.677" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="57.7598" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.046781" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0046781" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 50" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.00184883" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.46701" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="343.737" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="59.7548" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.021897" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0021897" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 91" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.0103041" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.12692" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="359.586" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="63.8899" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.200011" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.0200011" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 52" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="0.000195433" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.1835" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="57.6963" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="53.8693" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0247882" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00247882" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+  <source name="SNR 86" type="ExtendedSource">
+    <spectrum type="PowerLaw">
+      <parameter name="Prefactor" value="6.13009e-06" error="0" scale="1e-16" min="0" free="1" />
+      <parameter name="Index" value="-2.48254" error="0" scale="1" min="-10" max="10" free="1" />
+      <parameter name="Scale" value="1" scale="1e+06" free="0" />
+    </spectrum>
+    <spatialModel type="ShellFunction">
+      <parameter name="RA" value="84.3594" error="0" scale="1" free="1" />
+      <parameter name="DEC" value="31.4375" error="0" scale="1" free="1" />
+      <parameter name="Radius" value="0.0573858" error="0" scale="1" min="0" free="1" />
+      <parameter name="Width" value="0.00573858" error="0" scale="1" min="0.0002778" free="1" />
+    </spatialModel>
+  </source>
+</source_library>
