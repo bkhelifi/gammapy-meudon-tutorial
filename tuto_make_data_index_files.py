@@ -15,7 +15,7 @@ from astropy.table import Table
 from astropy.table import vstack as table_vstack
 from astropy.coordinates import SkyCoord
 
-log = logging.getLogger()
+# log = logging.getLogger()
 
 # BASE_PATH = Path('1dc/1dc')
 BASE_PATH = Path('handson')
@@ -159,22 +159,19 @@ class ObservationDefinition:
 
     @property
     def events_dir(self):
-        return self.base_dir + '/data/baseline/' + self.data['dataset']
+        return self.base_dir + '/data/' + self.data['dataset']
 
     @property
     def events_filename(self):
-        return '{}_baseline_{:06d}.fits'.format(
-            self.data['dataset'],
-            self.data['obs_id'],
-        )
+        return 'obs_{:06d}.fits'.format(self.data['obs_id'])
 
     @property
     def irf_dir(self):
-        return self.base_dir + '/caldb/data/cta/prod2/bcf/South_z20_50h'
+        return self.base_dir + '/caldb/data/cta/prod2/bcf/South_50h'
 
     @property
     def irf_filename(self):
-        return 'irf_file.fits'
+        return 'irf_file.fits.gz'
 
 
 def add_provenance(meta):
