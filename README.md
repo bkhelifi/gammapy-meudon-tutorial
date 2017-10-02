@@ -23,7 +23,7 @@ This is a work in progress...
 ## II Introduction tutorial: *python* and *numpy*
 This tutorial is driven by Régis Terrier (APC).
 
-It uses the notebook : **xxxxx**
+It uses the notebook : *notebooks/astropy_introduction.ipynb* and *notebooks/using_numpy.ipynb*
 
 PS: to start a notebook, type on a terminal : `jupyter notebook toto.ipynb`
 
@@ -60,9 +60,9 @@ Counts maps, background estimation, excess and significance map, source fitting
 
 This tutorial is driven by Yves Gallant (LUPM) and Fabio Acero (SAP).
 
-It uses the notebook : *tutorial_gammapy_maps.ipynb*
+It uses the notebook : *notebooks/tutorial_gammapy_maps.ipynb* *notebooks/cta_fit_sources_v2.ipynb*
 
-### V.4 Making a spectrum
+### V.4 Making simulations and model fit
 Simulation of fake data, 1D analysis for the background and spectrum, spectrum extraction, spectrum modelling and adjustment
  
 This tutorial is driven by Julien Lefaucheur (LUTh).
