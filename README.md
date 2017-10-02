@@ -13,6 +13,9 @@ All files can be downloaded on your computer by typing on a terminal :
 
 `git clone https://github.com/bkhelifi/gammapy-meudon-tutorial.git`
 
+A backup site is set up to download data used for the CTA tutorials:
+https://www.dropbox.com/s/o4f5jczp42jjaw1/handson.zip?dl=0
+
 For information, the open Data Format for gamma-ray astronomy is explained and described here:
 http://gamma-astro-data-formats.readthedocs.io/en/latest/index.html .
 This is a work in progress...
@@ -26,8 +29,6 @@ PS: to start a notebook, type on a terminal : `jupyter notebook toto.ipynb`
 
 ## III *COSMAX* : a Fermi tutorial 
 This tutorial is driven by Benoît Lott (CENBG).
-
-It uses the notebook : **xxxxx**
 
 ## IV *ctools* : a CTA tutorial
 This tutorial is driven by Jürgen Knödlseder (IRAP).
@@ -50,7 +51,7 @@ Some useful links:
 ### V.2 Data Management
 DataStore and links to HDU and OBS table, stacked observation
 
-This tutorial is driven by **xxx** (**xxx**).
+This tutorial is driven by Christoph Deil (MPIK Heidelberg).
 
 It uses the notebook : *notebooks/tutorial_gammapy_intro.ipynb*
 
@@ -59,7 +60,7 @@ Counts maps, background estimation, excess and significance map, source fitting
 
 This tutorial is driven by Yves Gallant (LUPM) and Fabio Acero (SAP).
 
-It uses the notebook : **xxxxx**
+It uses the notebook : *tutorial_gammapy_maps.ipynb*
 
 ### V.4 Making a spectrum
 Simulation of fake data, 1D analysis for the background and spectrum, spectrum extraction, spectrum modelling and adjustment
@@ -67,11 +68,4 @@ Simulation of fake data, 1D analysis for the background and spectrum, spectrum e
 This tutorial is driven by Julien Lefaucheur (LUTh).
 
 It uses the notebook : *notebooks/tutorial_ebl.ipynb*
-
-### V.5 3D analysis??
-Régis, do we make it???
-
-This tutorial is driven by **xxx** (**xxx**).
-
-It uses the notebook : **xxxxx**
 
